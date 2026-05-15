@@ -1,0 +1,7 @@
+{
+  "name": "Remix: GFORCE - SPACE",
+  "description": "The ultimate human performance tool combining astronaut data, combat tactics, and self-improvement science.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
